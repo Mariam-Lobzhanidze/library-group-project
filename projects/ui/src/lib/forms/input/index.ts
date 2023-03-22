@@ -1,1 +1,1 @@
-
+export * from './inputs.directive'
